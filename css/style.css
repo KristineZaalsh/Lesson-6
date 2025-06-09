@@ -1,13 +1,16 @@
 .header {
-    vertical-align: middle; display: flex; background-color: #7F3CE0; 
-    width: 20030px; 
+    vertical-align: middle; display: flex;
+    
 }
+.div-box {display: flex; background-color: #7F3CE0; 
+}
+
 .logo { vertical-align: middle; margin-right: 282px; 
     margin-left: 230px; width: 152px; height: 50.80px;margin-top: 44px;
 
 }
 .nav-li {margin-right: 40px; display: flex; display: inline-block; 
-    font-size: 18px; color: #FFFFFF; line-height: 160%; margin-top: 53px; 
+    font-size: 18px;  line-height: 160%; margin-top: 53px; 
  
 }
 .text-1 {
@@ -17,11 +20,12 @@
 }
 
 .main-div {padding: 146px 0px  25px 230px; font-size: 62px;
-    line-height: 160% ; background-color: #7F3CE0; color: #FFFFFF; 
+    color: #051114; background-color: #7F3CE0;
    
 
 }
-.text-2 { background-color: #7F3CE0 ; color: #FFFFFF ; 
+.codext-section { background-color: #7F3CE0;}
+.text-2 { color: #FFFFFF ; background-color: #7F3CE0;
     font-size: 18px; width: 435px; margin-left: 230px;
      margin-bottom: 35px;
 
@@ -32,13 +36,12 @@
     margin-top: 50px; margin-left: 230px; margin-bottom: 245.62px;
 
 }
-.section {background-color: #7F3CE0; 
-}
+
 .two-divs {
  display: flex; margin-bottom: 166px;
 }
 .div-1 {width: 601.13px; height: 471.15px; margin-left: 210px;
-     margin-right: 133px; background-color: yellow;
+     margin-right: 133px; background-color: yellow; margin-left: 117.72px;
 
 }
 .div-2 {width: 508px; height: 114px; font-size: 44px; 
@@ -72,13 +75,45 @@
 .div-text {font-size: 18px; color: #051114;
 
 }
-.review-2 {width: 1140px; height: 291px; background-color: beige; 
+.review-2 { width: 1140px; background-color: beige; display: flex;
   
 
 }
 .par {
     width: 200px; height: 76px; font-size: 12px;
 }
-.img1 {width: 80px; 
-  
+.inside-dv {margin-left: 57px; background-color: 
+   
 }
+.dv-insights { 
+    height: 767px; width:1140px ; background-color: #7F3CE0;
+}
+.news-dv {height: 767px; width:1140px ;background-color: aquamarine;
+     display: inline-block; margin-top: 166px;
+
+}
+ 
+.img4{width: 555px; height: 358px; margin-left: 218px; 
+}
+.img4-texts { display: flex; color: #051114; font-size: 14px;
+     margin-left: 30px; margin-top: 30px;
+    margin-left: 30px;margin-bottom: 60px;
+     background-color: aqua; margin-left: 248px;
+
+}
+.img4-title {font-size: 22px; color: #051114; 
+    line-height: 150%; margin-left: 30px; 
+    background-color: #42B4EE;
+    display: inline-block; margin-left: 248px;
+
+}
+.paragr-2 { margin-left: 60px; margin-right: 60px;
+}
+.paragr-3 { margin-right: 71px;
+}
+.img-par {font-size: 14px; width: 427px; height: 66px;
+     line-height: 160%; margin-left: 30px;
+     margin-left: 248px;
+
+}
+.img5 { margin-left: 0px}
