@@ -35,7 +35,7 @@
 .section {background-color: #7F3CE0; 
 }
 .two-divs {
- display: flex;
+ display: flex; margin-bottom: 166px;
 }
 .div-1 {width: 601.13px; height: 471.15px; margin-left: 210px;
      margin-right: 133px; background-color: yellow;
@@ -60,5 +60,25 @@
 }
 
 .review {
-    width: 1400px;
+    width: 1400px;  height:496px; background-color:  antiquewhite;
+     margin-left: 230px; flex-wrap: wrap;
+}
+.review-1 {width: 670px; height: 145px; margin-left: 465px; margin-bottom: 60px;
+
+}
+.div-title { font-size: 44px; line-height: 130px; color: #060E1A;
+
+}
+.div-text {font-size: 18px; color: #051114;
+
+}
+.review-2 {width: 1140px; height: 291px; background-color: beige; 
+  
+
+}
+.par {
+    width: 200px; height: 76px; font-size: 12px;
+}
+.img1 {width: 80px; 
+  
 }
