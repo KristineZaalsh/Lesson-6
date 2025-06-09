@@ -1,1 +1,18 @@
-.icon {vertical-align: middle;}
+.header {background-color: #461096; padding: 40px 0px 822.52px 230px;
+     display: flex;
+
+}
+.logo {vertical-align: middle; 
+   
+}
+.navigations{
+    
+      background-color: antiquewhite;margin-top: 53px; 
+      vertical-align: middle; font-size: 18px; 
+}
+.nav-li {display: inline-block; font-size: 18px;
+     background-color: antiquewhite;
+      margin-right: 40px;  vertical-align: middle;
+     
+}
+
