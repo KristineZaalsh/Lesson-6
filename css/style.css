@@ -37,41 +37,80 @@ display: inline-block; vertical-align: middle;
 .demo-color {
     color: #FFFFFF;
 }
-.container { width: 1514px; background-color: yellow;
+.container { width: 1514px; 
+     margin-left: 105px; display: flex;
 
 }
 .image1 {
-    width: 601.13px; height: 417.15px;
+    width: 601.13px; height: 417.15px;  
 }
 
 
-.review {
-    width: 1400px;  height:496px; background-color:  antiquewhite;
-     margin-left: 230px; flex-wrap: wrap;
-}
-.review-1 {width: 670px; height: 145px; margin-left: 465px; margin-bottom: 60px;
+.box-2 { height: 500px; margin-left: 194.15px;
 
 }
-.div-title { font-size: 44px; line-height: 130px; color: #060E1A;
+.title2 { font-size: 44px;color: #051114; width: 508px; height: 114px;
+    
+
 
 }
-.div-text {font-size: 18px; color: #051114;
+.inside-title {font-size: 25px; width: 224px; height: 38px; color: #051114; 
 
 }
-.review-2 { width: 1140px; background-color: beige; display: flex;
-  
+.inside-text {font-size: 14px;color: #051114; width: 367px; height: 44px;
 
 }
-.par {
-    width: 200px; height: 76px; font-size: 12px;
+.div-box1 {
+    width: 416px ; height: 336px;
 }
-.inside-dv {margin-left: 57px;
+
+ 
+.title-dv {width: 670px; height: 145px; margin-left: 465px;
+
+}
+
+.title-1 {font-size: 44px; color: #060E1A;
+
+}
+.container-3 {width: 1140px;height: 291px; background-color: aquamarine; 
+    margin-bottom: 166px; margin-left: 230px ; 
+
+}
+.div-photos{width: 360px; height: 291px; display: inline-block; 
    
 }
-.dv-insights { 
-    height: 767px; width:1140px ; background-color: #7F3CE0;
+.photo-1 {margin-left: 230px;
+
 }
-.news-dv {height: 767px; width:1140px ;background-color: aquamarine;
+.photo-2 {margin-left: 30px;
+
+}
+.photo-3 {
+    margin-left: 30px;
+}
+.photo-text {
+   margin-top: 60px; margin-left: 90px; margin-bottom: 25px;
+}
+
+.text-lorem {font-size: 18px; color: #051114;
+
+}
+.div-1 {width: 360px;height: 291px; background-color: antiquewhite;
+
+}
+.div1-text {margin-left: 90px; font-size: 12px; color: #051114;
+
+}
+.imgs {
+     
+    margin-top: 25px; margin-left: 57px ; margin-bottom: 50px; 
+}
+.names {font-size: 20px; display: inline-block; margin-left: 20px; 
+}
+
+
+
+.news-dv {height: 767px; width:1140px ;
      display: inline-block; margin-top: 166px;
 
 }
@@ -81,12 +120,12 @@ display: inline-block; vertical-align: middle;
 .img4-texts { display: flex; color: #051114; font-size: 14px;
      margin-left: 30px; margin-top: 30px;
     margin-left: 30px;margin-bottom: 60px;
-     background-color: aqua; margin-left: 248px;
+     margin-left: 248px;
 
 }
 .img4-title {font-size: 22px; color: #051114; 
     line-height: 150%; margin-left: 30px; 
-    background-color: #42B4EE;
+    
     display: inline-block; margin-left: 248px;
 
 }
