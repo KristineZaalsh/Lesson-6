@@ -1,66 +1,49 @@
-.header {
-    vertical-align: middle; display: flex;
+.logo {height: 50.83px; vertical-align: middle;  margin-left: 230px; 
+    margin-top: 44px; margin-right: 282px;
+
+}
+.navigation {
+display: inline-block; vertical-align: middle; 
+ margin-top: 53px; color: #FFFFFF;
+}
+
+
+.nav-li { display: flex; display: inline-block; margin-right: 40px; 
+     font-size: 18px; 
+
+}
+
+.title { margin-top: 146px; margin-left: 230px; font-size: 62px; margin-bottom: 25px; color: #FFFFFF;
+
+}
+.paragraph {
+    font-size: 18px; margin-left: 230px; margin-bottom: 35px; color: #FFFFFF;
+}
+.free-trial {background-color: #42B4EE; font-size: 18px; width: 160px;
+     height: 59px; padding: 15px 30px; color: #FFFFFF; 
+     margin-left: 60px; ; 
+    }
     
-}
-.div-box {display: flex; background-color: #7F3CE0; 
-}
-
-.logo { vertical-align: middle; margin-right: 282px; 
-    margin-left: 230px; width: 152px; height: 50.80px;margin-top: 44px;
-
-}
-.nav-li {margin-right: 40px; display: flex; display: inline-block; 
-    font-size: 18px;  line-height: 160%; margin-top: 53px; 
- 
-}
-.text-1 {
-   display: inline-block; background-color: #42B4EE;
-    width: 160px; height: 59px; 
-   padding: 15px 30px; 
+.header {
+    background-color: #7F3CE0; margin-bottom: 140.48px; 
 }
 
-.main-div {padding: 146px 0px  25px 230px; font-size: 62px;
-    color: #051114; background-color: #7F3CE0;
-   
+
+.demo-text{
+    background-color: #42B4EE; font-size: 20px; width: 216px;
+     height: 62px; padding: 15px 30px;  margin-left: 230px; 
+     margin-bottom: 245.52px;
+}
+.demo-color {
+    color: #FFFFFF;
+}
+.container { width: 1514px; background-color: yellow;
 
 }
-.codext-section { background-color: #7F3CE0;}
-.text-2 { color: #FFFFFF ; background-color: #7F3CE0;
-    font-size: 18px; width: 435px; margin-left: 230px;
-     margin-bottom: 35px;
-
-}
-.text-3 {
-    background-color: #42B4EE ; width: 216px; height: 62px; 
-    font-size: 20 px; color: #FFFFFF; padding: 15px 30px; 
-    margin-top: 50px; margin-left: 230px; margin-bottom: 245.62px;
-
+.image1 {
+    width: 601.13px; height: 417.15px;
 }
 
-.two-divs {
- display: flex; margin-bottom: 166px;
-}
-.div-1 {width: 601.13px; height: 471.15px; margin-left: 210px;
-     margin-right: 133px; background-color: yellow; margin-left: 117.72px;
-
-}
-.div-2 {width: 508px; height: 114px; font-size: 44px; 
-     margin-right: 179px; background-color: yellowgreen;
-   
-}
-.div-3 {width: 416px; height: 336px; background-color: aquamarine;
-
-}
-.description-a {
-    font-size: 38px; color: #051114; 
-     margin-top: 50px;
-}
-.description-1 {font-size: 14px; color: #051114;
-
-}
-.description-b { font-size: 38px; color: #051114; 
-
-}
 
 .review {
     width: 1400px;  height:496px; background-color:  antiquewhite;
@@ -82,7 +65,7 @@
 .par {
     width: 200px; height: 76px; font-size: 12px;
 }
-.inside-dv {margin-left: 57px; background-color: 
+.inside-dv {margin-left: 57px;
    
 }
 .dv-insights { 
