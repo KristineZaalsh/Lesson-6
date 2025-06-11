@@ -60,14 +60,15 @@
               width: 367px; height: 44px;
 }
 .container2 {width: 1140px;  margin: 0 auto;
-             height: 496px; margin-top: 200px; 
+             height: 496px; margin-top: 200px;
+             margin-bottom: 166px;
 }
 .title-dv {width: 670px;height: 145px; 
            margin: 0 auto;
 }
 .title-1 {
     font-size: 44px; color: #060E1A;
-    margin-left: 48px; margin-bottom: 30px;
+    margin-bottom: 30px; margin-left: 100px; 
 }
 .title-2 {font-size: 18px; color: #051114;
           width: 670px; text-align: center;
@@ -120,41 +121,41 @@
 .imgs {margin-top: 25px; margin-left: 57px ; 
        margin-bottom: 50px; 
 }
-.names {font-size: 20px; display: inline-block; 
+.names {font-size: 20px; 
         margin-left: 20px; 
 }
+.container-3 {width: 1140px; 
+              height: 767px; margin:  0 auto;display: flex; 
+              height: 767px;
+}
+.news-title {font-size: 44px; color: #051114;
+             text-align: center; margin-bottom: 60px;
+}
+.div-box1 {width: 555px; height: 650px; 
+}
 
-
-
-.news-dv {width:1140px ;
-         display: inline-block; margin-top: 166px;
-         background-color: #9acd32;
-         margin-top: 500px;
-
+.creative-team {width: 454px; height: 26px; 
+                margin-left: 30px;
+                display: flex; justify-content: space-between; 
+                font-size: 16px; margin-top: 30px; font-size: 16px;
+                color: #051114;
 }
- 
-.img4{width: 555px; height: 358px;
-      margin-left: 218px; 
+.news-title2{font-size: 22px; margin-left: 30px;
+             margin-top: 20px;
 }
-.img4-texts {display: flex; color: #051114;
-             font-size: 14px;
-             margin-left: 30px; margin-top: 30px;
-             margin-left: 30px;margin-bottom: 60px;
-             margin-left: 248px;
-
+.news-title2 {font-size: 22px;color: Black;
 }
-.img4-title {font-size: 22px; color: #051114; 
-             line-height: 150%; margin-left: 30px; 
-             display: inline-block; margin-left: 248px;
-}
-.paragr-2 {margin-left: 60px; margin-right: 60px;
-}
-.paragr-3 {margin-right: 71px;
-}
-.img-par {font-size: 14px; width: 427px; height: 66px;
-          line-height: 160%; margin-left: 30px;
-          margin-left: 248px;
+.text-lorem {font-size: 14px; color: #051114;
+             margin-left: 30px; margin-top: 20px; line-height: 160%;
 
 }
-.img5 { margin-left: 0px
+.div-continue {font-size: 14px;color: #FFFFFF; 
+               background-color: #42B4EE;
+               width: 106px; height: 42px; 
+               padding: 10px 0px 10px 20px; margin-left: 30px;
+               margin-top: 25px;
+}
+.div-box2 {margin-left: 30px;
+}
+.parent-dv { display: flex; margin-bottom: 30px;
 }
